@@ -2,7 +2,7 @@
   "anuncios": [ {
    
     "nombre":"Assasins Creed IV",
-    "descripción": "Vendo Assasins Creed IV para Xbox One",
+    "descripcion": "Vendo Assasins Creed IV para Xbox One",
     "venta": true,
     "precio": 30,
     "foto":"assasins.jpg",
@@ -13,7 +13,7 @@
  },
  {  
     "nombre":"Bayonetta 2",
-    "descripción": "Vendo Bayonetta 2 para nintendo Switch nuevo, dispongo de amplio stock",
+    "descripcion": "Vendo Bayonetta 2 para nintendo Switch nuevo, dispongo de amplio stock",
     "venta": true,
     "precio": 40,
     "foto":"bayonetta.jpg",
@@ -24,7 +24,7 @@
  },
  {  
     "nombre":"Gears of War 4",
-    "descripción": "Busco el Gears of war 4 para xbox one",
+    "descripcion": "Busco el Gears of war 4 para xbox one",
     "venta": false,
     "precio": 30,    
     "foto":"gears.jpg",
@@ -35,7 +35,7 @@
  },
  {  
     "nombre":"Sekiro",
-    "descripción": "Compro juego Sekiro para ps4",
+    "descripcion": "Compro juego Sekiro para ps4",
     "venta": false,
     "precio": 50,
     "foto":"sekiro.jpg",
@@ -46,7 +46,7 @@
  },
  {  
     "nombre":"Cuphead",
-    "descripción": "Busco Cuphead para xbox one",
+    "descripcion": "Busco Cuphead para xbox one",
     "venta": false,
     "precio":30,
     "foto":"cuphead.jpg",
@@ -57,7 +57,7 @@
  },
  {  
     "nombre":"Destiny",
-    "descripción": "Vendo Destiny",
+    "descripcion": "Vendo Destiny",
     "venta": true,
     "precio":30,
     "foto":"destiny.jpg",
@@ -68,7 +68,7 @@
  },
  {  
     "nombre":"Doom",
-    "descripción": "Busco Doom para nintendo Switch!",
+    "descripcion": "Busco Doom para nintendo Switch!",
     "venta": false,
     "precio": 25,
     "foto":"doom.jpg",
@@ -79,7 +79,7 @@
  },
  {  
     "nombre":"Final Fantasy XV Deluxe",
-    "descripción": "Busco la edición Deluxe del Final Fantasy XV",
+    "descripcion": "Busco la edición Deluxe del Final Fantasy XV",
     "venta": false,
     "precio": 60,
     "foto":"ff-xv.jpg",
@@ -90,7 +90,7 @@
  },
  {  
     "nombre":"God of war",
-    "descripción": "Busco God of War para ps4",
+    "descripcion": "Busco God of War para ps4",
     "venta": false,
     "precio": 50,     
     "foto":"god-of-war.jpg",
@@ -101,7 +101,7 @@
  },
  {  
     "nombre":"Horizon Zero",
-    "descripción": "Vendo Horizon Zero Dawn",
+    "descripcion": "Vendo Horizon Zero Dawn",
     "venta": true,
     "precio": 30,
     "foto":"horizon.jpg",
@@ -112,7 +112,7 @@
  },
  {  
     "nombre":"The last of us",
-    "descripción": "Busco la remasterización del The last of us",
+    "descripcion": "Busco la remasterización del The last of us",
     "venta": false,
     "precio": 25,
     "foto":"last.jpg",
@@ -123,7 +123,7 @@
  },
  {  
     "nombre":"Luigi's Mansion 3",
-    "descripción": "Vendo Luigi's Mansion 3 precintado",
+    "descripcion": "Vendo Luigi's Mansion 3 precintado",
     "venta": true,
     "precio": 50,
     "foto":"luigi.jpg",
@@ -134,7 +134,7 @@
  },
  {  
     "nombre":"Super Mario Odyssey",
-    "descripción": "Vendo Super Mario Odyssey como nuevo",
+    "descripcion": "Vendo Super Mario Odyssey como nuevo",
     "venta": true,
     "precio": 45,    
     "foto":"mario.jpg",
@@ -145,7 +145,7 @@
  },
  {  
     "nombre":"Wasteland 2",
-    "descripción": "Busco el juego Wasteland 2",
+    "descripcion": "Busco el juego Wasteland 2",
     "venta": false,
     "precio":25,    
     "foto":"wasteland.jpg",
@@ -156,7 +156,7 @@
  },
  {  
     "nombre":"Mega Man",
-    "descripción": "Vendo todo un clásico",
+    "descripcion": "Vendo todo un clásico",
     "venta": true,
     "precio": 50,    
     "foto":"megaman.jpeg",
@@ -167,7 +167,7 @@
  },
  {  
     "nombre":"Namco Museum",
-    "descripción": "¡¡Busco el Namco Museum para nintendo Switch!!",
+    "descripcion": "¡¡Busco el Namco Museum para nintendo Switch!!",
     "venta": false,
     "precio": 40,   
     "foto":"namco.jpg",
@@ -178,7 +178,7 @@
  },
  {  
     "nombre":"Resident Evil 2 remake",
-    "descripción": "Vendo esta maravilla de Capcom en perfecto estado",
+    "descripcion": "Vendo esta maravilla de Capcom en perfecto estado",
     "venta": true,
     "precio": 40,   
     "foto":"re-2.jpg",
@@ -189,7 +189,7 @@
  },
  {  
     "nombre":"Nier Automata",
-    "descripción": "Vendo Nier Automata para ps4",
+    "descripcion": "Vendo Nier Automata para ps4",
     "venta": true,
     "precio": 50,    
     "foto":"nier.jpg",
@@ -200,7 +200,7 @@
  },
  {  
     "nombre":"Saint Seiya",
-    "descripción": "Estoy buscando el juego de Saint Seiya para ps4",
+    "descripcion": "Estoy buscando el juego de Saint Seiya para ps4",
     "venta": false,
     "precio": 45,   
     "foto":"saint.jpg",
@@ -211,7 +211,7 @@
  },
  {  
     "nombre":"Shadow of Modor",
-    "descripción": "Vendo Shadow of Mordor",
+    "descripcion": "Vendo Shadow of Mordor",
     "venta": true,
     "precio": 20,    
     "foto":"shadow.jpg",
@@ -222,7 +222,7 @@
  },
  {  
     "nombre":"Juegos olímpicos Mario&Sonic",
-    "descripción": "Busco el juego de las olimpiadas de Mario y Sonic de nintendo Switch",
+    "descripcion": "Busco el juego de las olimpiadas de Mario y Sonic de nintendo Switch",
     "venta": false,
     "precio": 40,    
     "foto":"sonic.jpg",
@@ -233,7 +233,7 @@
  },
  {  
     "nombre":"The Witcher 3",
-    "descripción": "Estoy interesado en el juego The Witcher 3 para xbox One",
+    "descripcion": "Estoy interesado en el juego The Witcher 3 para xbox One",
     "venta": false,
     "precio": 35,    
     "foto":"the-witcher-3.jpg",
@@ -244,7 +244,7 @@
  },
  {  
     "nombre":"Uncharted 4",
-    "descripción": "Vendo Uncharted 4",
+    "descripcion": "Vendo Uncharted 4",
     "venta": true,
     "precio": 30,    
     "foto":"uncharted.jpg",
@@ -255,7 +255,7 @@
  },
  {  
     "nombre":"Zelda Breath of Wild",
-    "descripción": "Compro Zelda Breath of Wild para nintendo Switch",
+    "descripcion": "Compro Zelda Breath of Wild para nintendo Switch",
     "venta": false,
     "precio": 45,   
     "foto":"zelda.jpg",
