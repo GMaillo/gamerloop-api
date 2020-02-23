@@ -1,0 +1,268 @@
+{
+  "anuncios": [ {
+   
+    "nombre":"Assasins Creed IV",
+    "descripción": "Vendo Assasins Creed IV para Xbox One",
+    "venta": true,
+    "precio": 30,
+    "foto":"assasins.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Bayonetta 2",
+    "descripción": "Vendo Bayonetta 2 para nintendo Switch nuevo, dispongo de amplio stock",
+    "venta": true,
+    "precio": 40,
+    "foto":"bayonetta.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Gears of War 4",
+    "descripción": "Busco el Gears of war 4 para xbox one",
+    "venta": false,
+    "precio": 30,    
+    "foto":"gears.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Sekiro",
+    "descripción": "Compro juego Sekiro para ps4",
+    "venta": false,
+    "precio": 50,
+    "foto":"sekiro.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Cuphead",
+    "descripción": "Busco Cuphead para xbox one",
+    "venta": false,
+    "precio":30,
+    "foto":"cuphead.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Destiny",
+    "descripción": "Vendo Destiny",
+    "venta": true,
+    "precio":30,
+    "foto":"destiny.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Doom",
+    "descripción": "Busco Doom para nintendo Switch!",
+    "venta": false,
+    "precio": 25,
+    "foto":"doom.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Final Fantasy XV Deluxe",
+    "descripción": "Busco la edición Deluxe del Final Fantasy XV",
+    "venta": false,
+    "precio": 60,
+    "foto":"ff-xv.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"God of war",
+    "descripción": "Busco God of War para ps4",
+    "venta": false,
+    "precio": 50,     
+    "foto":"god-of-war.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Horizon Zero",
+    "descripción": "Vendo Horizon Zero Dawn",
+    "venta": true,
+    "precio": 30,
+    "foto":"horizon.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"The last of us",
+    "descripción": "Busco la remasterización del The last of us",
+    "venta": false,
+    "precio": 25,
+    "foto":"last.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Luigi's Mansion 3",
+    "descripción": "Vendo Luigi's Mansion 3 precintado",
+    "venta": true,
+    "precio": 50,
+    "foto":"luigi.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Super Mario Odyssey",
+    "descripción": "Vendo Super Mario Odyssey como nuevo",
+    "venta": true,
+    "precio": 45,    
+    "foto":"mario.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Wasteland 2",
+    "descripción": "Busco el juego Wasteland 2",
+    "venta": false,
+    "precio":25,    
+    "foto":"wasteland.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Mega Man",
+    "descripción": "Vendo todo un clásico",
+    "venta": true,
+    "precio": 50,    
+    "foto":"megaman.jpeg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Namco Museum",
+    "descripción": "¡¡Busco el Namco Museum para nintendo Switch!!",
+    "venta": false,
+    "precio": 40,   
+    "foto":"namco.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Resident Evil 2 remake",
+    "descripción": "Vendo esta maravilla de Capcom en perfecto estado",
+    "venta": true,
+    "precio": 40,   
+    "foto":"re-2.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Nier Automata",
+    "descripción": "Vendo Nier Automata para ps4",
+    "venta": true,
+    "precio": 50,    
+    "foto":"nier.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Saint Seiya",
+    "descripción": "Estoy buscando el juego de Saint Seiya para ps4",
+    "venta": false,
+    "precio": 45,   
+    "foto":"saint.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Shadow of Modor",
+    "descripción": "Vendo Shadow of Mordor",
+    "venta": true,
+    "precio": 20,    
+    "foto":"shadow.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Juegos olímpicos Mario&Sonic",
+    "descripción": "Busco el juego de las olimpiadas de Mario y Sonic de nintendo Switch",
+    "venta": false,
+    "precio": 40,    
+    "foto":"sonic.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"The Witcher 3",
+    "descripción": "Estoy interesado en el juego The Witcher 3 para xbox One",
+    "venta": false,
+    "precio": 35,    
+    "foto":"the-witcher-3.jpg",
+    "tags":[  
+       "xbox"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Uncharted 4",
+    "descripción": "Vendo Uncharted 4",
+    "venta": true,
+    "precio": 30,    
+    "foto":"uncharted.jpg",
+    "tags":[  
+       "ps4"
+    ],
+    "usuario": "GabriMS"
+ },
+ {  
+    "nombre":"Zelda Breath of Wild",
+    "descripción": "Compro Zelda Breath of Wild para nintendo Switch",
+    "venta": false,
+    "precio": 45,   
+    "foto":"zelda.jpg",
+    "tags":[  
+       "switch"
+    ],
+    "usuario":"GabriMS"
+ }
+]
+}
