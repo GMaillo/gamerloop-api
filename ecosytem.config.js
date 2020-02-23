@@ -3,7 +3,7 @@
 module.exports = {
   apps : [{
     name: 'apigamerloop',
-    script: './bin/www_ssl',
+    script: './bin/www',
     instances: 1,
     autorestart: true,
     watch: true,
